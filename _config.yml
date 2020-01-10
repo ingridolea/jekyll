@@ -18,19 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Ingrid Olea
+email: ingrid_olea@hks.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Chilean public servant, committed to expanding opportunities for children and allowing them to fulfill their potential. I have prior training as an educator and engineer, and experience in classroom teaching, as well as the design and implementation of education policy. 
+
+I am currently pursuing a master's degree in public administration at the Harvard Kennedy School, with focus on the challenges of policy implementation in developing contexts and program evaluation. 
+
+You can reach me at ingrid_olea [at] student [dot] hks [dot] harvard [dot] edu or through my social media accounts, down below. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ingridelena
+github_username:  ingridolea
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
