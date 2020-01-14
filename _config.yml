@@ -32,7 +32,7 @@ twitter_username: ingridelena
 github_username:  ingridolea
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
